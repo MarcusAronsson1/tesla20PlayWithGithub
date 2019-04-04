@@ -13,7 +13,8 @@ Each year, over [5000](http://www.the-monitor.org/en-gb/reports/2017/landmine-mo
 Disabling land mines could be unsafe for humans and animals involved. The use of a light weight small car with capability of moving through a specific field by avoiding obstacles would facilitate the process realising the aforementioned purpose.
 
 ### Hardware
-The following are some of the hardware that are currently selected. As the project develops, the list could be updated depending on the need of the project which aims to provide a satisfactory product for the client.
+The following are some of the hardware that are currently selected. As the project develops, the list could be updated depending on the need of the project which aims to provide a satisfactory product for the client. The use of RFID and its reader could model the mines and the sensor respectively
+
 * Smartcar chassis
 * Smartcar shield
 * Arduino Mega
